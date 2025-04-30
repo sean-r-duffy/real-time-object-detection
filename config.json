@@ -1,0 +1,10 @@
+{
+  "FRAME_INTERVAL": 30,
+  "MIN_COMPONENT_AREA": 10000,
+  "MAX_COMPONENT_AREA": 500000,
+  "COMPONENT_CONNECTIVITY": 8,
+  "K": 3,
+  "MAX_DISTANCE": 1,
+  "DISTANCE_METRIC": "euclidean",
+  "DATABASE_PATH": "data/database.csv"
+}
