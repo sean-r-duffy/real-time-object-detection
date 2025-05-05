@@ -11,7 +11,8 @@ The attacks can be performed both physically and digitally.
 
 ## Project Presentation
 
-[Recording](https://youtu.be/lx3VhNanPlo)
+[Report](reports/final_report.pdf)
+[Presentation](reports/presentation.pdf)
 [Demo](https://drive.google.com/file/d/16zuR5_MeYEpabxJIyhwkWrJ2kQpBJ-wd/view?usp=sharing)
 
 ## Command Line Arguments
