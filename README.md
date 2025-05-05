@@ -9,10 +9,10 @@ We compare the performance of the detection methods in light and dark environmen
 We then calculate adversarial patches and attack the detection systems, comparing their performance against these attacks.
 The attacks can be performed both physically and digitally.  
 
-## Project Presentation
+## Presentation
 
-[Report](reports/final_report.pdf)
-[Presentation](reports/presentation.pdf)
+[Report](reports/final_report.pdf) | 
+[Presentation](reports/presentation.pdf) | 
 [Demo](https://drive.google.com/file/d/16zuR5_MeYEpabxJIyhwkWrJ2kQpBJ-wd/view?usp=sharing)
 
 ## Command Line Arguments
